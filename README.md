@@ -1,1 +1,3 @@
 # -Noise-Reduction-in-Sensor-Data-Using-a-Simple-Kalman-Filter
+
+This project explores sensor data processing by first illustrating how the mean (μ) and standard deviation (σ) shape a normal distribution. Next, it generates a clean sine‑wave signal and adds realistic Gaussian noise to simulate raw sensor readings. Finally, a simple 1D Kalman Filter is applied to smooth the noisy data. Comparative plots of the true signal, noisy measurements, and filtered output demonstrate how the Kalman Filter recovers the underlying waveform. This hands‑on example serves as an accessible introduction to noise reduction techniques useful in sensor fusion, control systems, and robotics.
